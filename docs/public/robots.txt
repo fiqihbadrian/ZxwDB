@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zxwdb.fiqihbadrian.my.id/sitemap.xml

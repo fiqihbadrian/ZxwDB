@@ -1,0 +1,30 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#4ec9b0" opacity="0.1"/>
+  
+  <!-- Database Icon -->
+  <g transform="translate(100, 100)">
+    <!-- Top cylinder -->
+    <ellipse cx="0" cy="-40" rx="45" ry="12" fill="#4ec9b0"/>
+    
+    <!-- Middle cylinder -->
+    <rect x="-45" y="-40" width="90" height="50" fill="#4ec9b0"/>
+    <ellipse cx="0" cy="-40" rx="45" ry="12" fill="#569cd6"/>
+    
+    <!-- Bottom cylinder -->
+    <ellipse cx="0" cy="10" rx="45" ry="12" fill="#4ec9b0"/>
+    
+    <!-- Connection lines -->
+    <line x1="-25" y1="-25" x2="25" y2="5" stroke="#569cd6" stroke-width="3" opacity="0.6"/>
+    <line x1="-25" y1="-5" x2="25" y2="-15" stroke="#569cd6" stroke-width="3" opacity="0.6"/>
+    
+    <!-- Nodes -->
+    <circle cx="-25" cy="-25" r="6" fill="#569cd6"/>
+    <circle cx="-25" cy="-5" r="6" fill="#569cd6"/>
+    <circle cx="25" cy="-15" r="6" fill="#569cd6"/>
+    <circle cx="25" cy="5" r="6" fill="#569cd6"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="100" y="180" font-family="monospace" font-size="24" font-weight="bold" text-anchor="middle" fill="#4ec9b0">zxwdb</text>
+</svg>

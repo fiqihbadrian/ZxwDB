@@ -32,3 +32,8 @@ Thumbs.db
 
 # Project specific
 *.sql
+
+# Documentation
+docs/.vitepress/dist
+docs/.vitepress/cache
+docs/node_modules

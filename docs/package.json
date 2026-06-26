@@ -1,0 +1,25 @@
+{
+  "name": "zxwdb-docs",
+  "version": "1.0.0",
+  "description": "Documentation for zxwdb - Visual Database Designer",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [
+    "zxwdb",
+    "mysql",
+    "mariadb",
+    "database",
+    "designer",
+    "visual",
+    "documentation"
+  ],
+  "author": "Fiqih Badrian",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vue": "^3.4.0"
+  }
+}
