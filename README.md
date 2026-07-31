@@ -206,3 +206,7 @@ Found a bug or need help?
 **Made with ❤️ by [Fiqih Badrian](https://github.com/fiqihbadrian)**
 
 **Repository**: https://github.com/fiqihbadrian/ZxwDB
+
+<img width="1676" height="854" alt="image" src="https://github.com/user-attachments/assets/44155afe-1d21-445a-a1ac-17c1741d05a4" />
+<img width="1680" height="853" alt="image" src="https://github.com/user-attachments/assets/245666de-e817-49b5-8fb4-40366b7e7b65" />
+
